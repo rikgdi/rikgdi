@@ -1,11 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=rikgdi%20%7C%20RVIS%20inc.&fontSize=40&fontAlign=center)
 
-## Hi, I'm rikgdi (RVIS inc.)
-
-### I'm a developer currently learning and using:
-- **C++**
-- **C#**
-- **Java** (especially for Minecraft development)
+## Hi, I'm **rikgdi** (aka **RVIS inc.**)
+### I code in C++, C#, and Java (for Minecraft development)
 
 ---
 
@@ -27,9 +23,19 @@
 
 ## Main Languages
 
+<div align="center">
+  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
