@@ -2,9 +2,8 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+rikgdi+%7C+RVIS+inc.;I+code+in+C%2B%2B%2C+C%23%2C+Java;Minecraft+modding+is+my+thing;I+also+love+making+malware; I+love+Computer+Science; Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+rikgdi+%7C+RVIS+inc.;I+code+in+C%2B%2B%2C+C%23%2C+Java;Minecraft+modding+is+my+thing;I+love+making+computer+viruses+and+malware;I+also+love+computer+science;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
-
 ---
 
 ## GitHub Stats
