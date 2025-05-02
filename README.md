@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=rikgdi%20%7C%20RVIS%20inc.&fontSize=40&fontAlign=center)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RVIS%20inc.&fontSize=40&fontAlign=center)
 
 <!-- Animated Header -->
 <p align="center">
