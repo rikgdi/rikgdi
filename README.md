@@ -15,10 +15,7 @@
 
 ## Connect with Me
 
-[![YouTube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@RVISinc)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]()
-[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/DISCORD-RVIS%20inc.-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Rrikgdi)
 
 ---
 
