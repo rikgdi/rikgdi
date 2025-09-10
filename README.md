@@ -15,7 +15,7 @@
 
 ## Connect with Me
 
-[![YouTube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Rrikgdi)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@rikgdi)
 
 ---
 
