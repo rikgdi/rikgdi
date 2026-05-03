@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,22&height=220&section=header&text=RikGDI&fontSize=50&fontAlign=center&animation=twinkling" />
 
-  <br><br>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGDI);Minecraft+Redstone+Engineer+%26+Modder;Cybersecurity+Research+%26+Security+Tools;C%2B%2B+%7C+Python+%7C+C%23+%7C+Node.js+%7C+Java;Creating+mods%2C+tools+and+automation+projects;Welcome+to+my+GitHub+%F0%9F%8C%B1+%E2%9C%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGDI);Minecraft+Redstoner+%2B+Modder+%2B+Tool+Developer;Security+Researcher;C%2B%2B+%7C+Python+%7C+C%23+%7C+Node.js+%7C+Java;Welcome+to+my+GitHub+%F0%9F%8C%B1+%E2%9C%A8" />
   </a>
 </p>
 </div>
