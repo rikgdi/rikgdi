@@ -5,7 +5,11 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGDI);Minecraft+Modder+%26+Redstone+Engineer+%F0%9F%8E%AE;Low-Level+Programming+Enthusiast;C%2B%2B+%7C+Java+%7C+Python+%7C+Assembly;Building+systems%2C+logic%2C+and+experiments;Welcome+to+my+GitHub+%F0%9F%91%8B" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGDI);Minecraft+Modder+%26+Redstone+Engineer+%F0%9F%8E%AE;Low-Level+Programming+Enthusiast;C%2B%2B+%7C+Java+%7C+Python+%7C+Assembly;Building+systems%2C+logic%2C+and+experiments;Welcome+to+my+GitHub+%F0%9F%91%8B" />
+  </a>
+</p>
 </div>
 
 ---
