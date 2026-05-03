@@ -1,24 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RikGDI&fontSize=40&fontAlign=center)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=RikGDI&fontSize=45&fontAlign=center)
 
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rik+(aka+RikGDI);C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;Minecraft+Redstone+Builder;Computer+Science+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGDI);Minecraft+Redstone+Engineer+%F0%9F%8E%AE;C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;Computer+Science+%26+Systems+Learner;I+build+cool+things+with+code;Welcome+to+my+GitHub+%F0%9F%91%8B" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-- 👨‍💻 I'm **Rik (aka RikGDI)**
-- ⚡ I enjoy coding and experimenting with tech
-- 🧠 Interested in **computer science & low-level stuff**
-- 🎮 Minecraft Redstone builder
+- 🧑‍💻 I'm **Rik (aka RikGDI)**
+- 🎮 Minecraft Redstone enjoyer
+- 🧠 Passionate about Computer Science
+- ⚙️ I like building systems, logic, and experiments
+- 🚀 Always learning and improving
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- FIXED: username must match EXACTLY (rikgdi) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikgdi&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikgdi&layout=compact&theme=radical)
 
 ---
@@ -38,11 +40,11 @@
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"/></td>
@@ -59,8 +61,8 @@
 
 ## 🚀 Motto
 
-> Build. Break. Learn. Repeat.
+> “Build logic. Break limits. Repeat.”
 
 ---
 
-*Thanks for visiting — more cool stuff coming soon 👀*
+*Thanks for visiting my GitHub 👀*
