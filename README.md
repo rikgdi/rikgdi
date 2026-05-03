@@ -25,7 +25,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rikgdi&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rikgdi&theme=tokyonight&hide_border=true)
 
 ---
