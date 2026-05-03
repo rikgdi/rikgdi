@@ -5,19 +5,18 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGamerzz+%2F+RikGDI);Minecraft+Modder+%26+Redstone+Engineer+%F0%9F%8E%AE;Low-Level+Programming+Enthusiast;C%2B%2B+%7C+Java+%7C+Python+%7C+Assembly;Building+systems%2C+logic%2C+and+experiments;Welcome+to+my+GitHub+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGDI);Minecraft+Modder+%26+Redstone+Engineer+%F0%9F%8E%AE;Low-Level+Programming+Enthusiast;C%2B%2B+%7C+Java+%7C+Python+%7C+Assembly;Building+systems%2C+logic%2C+and+experiments;Welcome+to+my+GitHub+%F0%9F%91%8B" />
 </div>
 
 ---
 
 ## 👾 About Me
 
-- 🧑‍💻 I'm **Rik** (often known around the web as **RikGamerzz**)
-- ⛏️ Modding Minecraft and building custom clients (Fabric, Gradle, Java 21)
-- 💾 Exploring low-level programming, Assembly (NASM), and boot-level execution (MBR)
-- 🔍 Experimenting with network architecture and fast scanning tools like ZMap and Masscan
-- ⚙️ Developing strictly on Windows, powered by VS Code (saving that C: drive space!)
-- 🚀 Always learning, building logic, breaking limits, and repeating.
+- 🧑‍💻 I'm **Rik** (often known around the web as **RikGDI**)
+- ⛏️ Modding Minecraft and building tools for it
+- 💾 Programming related to computer malware and security
+- ⚙️ Developing strictly on Windows, powered by VS Code
+- 🚀 Always learning new things, building new tools, and repeating this every day.
 
 ---
 
