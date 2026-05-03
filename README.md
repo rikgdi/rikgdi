@@ -1,25 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RVIS%20inc.&fontSize=40&fontAlign=center)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RikGDI&fontSize=40&fontAlign=center)
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+RikGDI+%7C+RVIS+inc.;I+code+in+C%2B%2B%2C+C%23%2C+Java+Python;I+love+playing+Minecraft;I+love+making+computer+viruses+and+malware;I+also+love+computer+science;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rik+(aka+RikGDI);C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;Minecraft+Redstone+Builder;Computer+Science+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
+
 ---
 
-## GitHub Stats
+## 👋 About Me
+
+- 👨‍💻 I'm **Rik (aka RikGDI)**
+- ⚡ I enjoy coding and experimenting with tech
+- 🧠 Interested in **computer science & low-level stuff**
+- 🎮 Minecraft Redstone builder
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikgdi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikgdi&layout=compact&theme=radical)
 
 ---
 
-## Connect with Me
+## 🌐 Connect with Me
 
 [![YouTube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@rikgdi)
 
 ---
 
-## Languages I Use
+## 💻 Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -28,7 +38,7 @@
 
 ---
 
-## Main Tools
+## 🛠️ Tools I Use
 
 <table>
   <tr>
@@ -47,4 +57,10 @@
 
 ---
 
-*Thanks for stopping by! More cool stuff coming soon...*
+## 🚀 Motto
+
+> Build. Break. Learn. Repeat.
+
+---
+
+*Thanks for visiting — more cool stuff coming soon 👀*
