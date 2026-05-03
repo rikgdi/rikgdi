@@ -39,5 +39,5 @@
 ---
 
 <div align="center">
-  <i>🌱 Building Minecraft worlds with code & creativity</i>
+  <i>🌱 Building Minecraft Tools with code</i>
 </div>
