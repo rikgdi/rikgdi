@@ -35,9 +35,3 @@
     <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <i>🌱 Building Minecraft Tools with code</i>
-</div>
