@@ -16,7 +16,11 @@
 
 ### 💻 Languages
 
-**Main Language:** 🐍 Python
+*** ⚡ Primary Language
+
+<p>
+  <img src="https://img.shields.io/badge/MAIN%20LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Main Language: Python" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
