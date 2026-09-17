@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=rikgdi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
