@@ -1,31 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,22&height=220&section=header&text=RikGDI&fontSize=50&fontAlign=center&animation=twinkling" />
-
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,22&height=220&section=header&text=RikGDI&fontSize=50&fontAlign=center&animation=twinkling" /><p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGDI);Minecraft+Redstoner+%2B+Tool+Developer;Security+Researcher;C%2B%2B+%7C+Python+%7C+C%23+%7C+Node.js+%7C+Java;Welcome+to+my+GitHub+%F0%9F%8C%B1+%E2%9C%A8" />
   </a>
 </p>
-</div>
+</div>---
+
+🛠️ Tech Arsenal
+
+💻 Languages
+
+"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"C#" (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+📊 GitHub Stats
+
+"Streak" (https://github-readme-streak-stats.herokuapp.com/?user=rikgdi&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🛠️ Tech Arsenal
+💰 Support My Work
 
-## 💻 Languages
+If you enjoy my projects and want to support their development, you can donate using cryptocurrency:
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+₿ BTC (Bitcoin)
+"bc1qk9wv92lqwsusseha5zclppj05u5rc72jfsxa86"
 
-### 📊 GitHub Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rikgdi&theme=tokyonight&hide_border=true)
+Ξ ETH (Ethereum)
+"0xF3f0b15316d48065932b2656F1Ddf8CE0858f7e8"
+
+XMR (Monero)
+"46seceNYfiVbNG2YnfT3mr9EPmtzupM3QGmib1vGvjzy7GZizSyraNmEh8H7VMsKxoGdsTqM5QKJuFU9GUbLrdSj4jNZNPX"
+
+TRX (TRON)
+"TQC4fzAzvA9GUb9zjEUyzHkXMh1iVa9uNN"
+
+ŁTC (Litecoin)
+"ltc1qd788fwduly4f573txwa0rtd7227l455zrwq0sk"
 
 ---
 
-## 🌐 Connect
+🌐 Connect
 
 <div align="center">
   <a href="https://github.com/rikgdi">
