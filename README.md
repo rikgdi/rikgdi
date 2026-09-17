@@ -1,55 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,22&height=220&section=header&text=RikGDI&fontSize=50&fontAlign=center&animation=twinkling" /><p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGDI);Minecraft+Redstoner+%2B+Tool+Developer;Security+Researcher;C%2B%2B+%7C+Python+%7C+C%23+%7C+Node.js+%7C+Java;Welcome+to+my+GitHub+%F0%9F%8C%B1+%E2%9C%A8" />
-  </a>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,22&height=220&section=header&text=RikGDI&fontSize=50&fontAlign=center&animation=twinkling" />
+
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Hey+I'm+Rik+(aka+RikGDI);Minecraft+Redstoner+%2B+Tool+Developer;Security+Researcher;C%2B%2B+%7C+Python+%7C+C%23+%7C+Node.js+%7C+Java;Welcome+to+my+GitHub+%F0%9F%8C%B1+%E2%9C%A8" alt="Typing SVG" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
-</div>---
-
-🛠️ Tech Arsenal
-
-💻 Languages
-
-"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"C#" (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-📊 GitHub Stats
-
-"Streak" (https://github-readme-streak-stats.herokuapp.com/?user=rikgdi&theme=tokyonight&hide_border=true)
 
 ---
 
-💰 Support My Work
+## 📊 GitHub Stats
 
-If you enjoy my projects and want to support their development, you can donate using cryptocurrency:
-
-₿ BTC (Bitcoin)
-"bc1qk9wv92lqwsusseha5zclppj05u5rc72jfsxa86"
-
-Ξ ETH (Ethereum)
-"0xF3f0b15316d48065932b2656F1Ddf8CE0858f7e8"
-
-XMR (Monero)
-"46seceNYfiVbNG2YnfT3mr9EPmtzupM3QGmib1vGvjzy7GZizSyraNmEh8H7VMsKxoGdsTqM5QKJuFU9GUbLrdSj4jNZNPX"
-
-TRX (TRON)
-"TQC4fzAzvA9GUb9zjEUyzHkXMh1iVa9uNN"
-
-ŁTC (Litecoin)
-"ltc1qd788fwduly4f573txwa0rtd7227l455zrwq0sk"
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikgdi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-🌐 Connect
+## 💰 Support My Work
+
+If you enjoy my projects and want to support their development, you can donate using cryptocurrency.
+
+### ₿ Bitcoin (BTC)
+
+```text
+bc1qk9wv92lqwsusseha5zclppj05u5rc72jfsxa86
+```
+
+### Ξ Ethereum (ETH)
+
+```text
+0xF3f0b15316d48065932b2656F1Ddf8CE0858f7e8
+```
+
+### XMR Monero
+
+```text
+46seceNYfiVbNG2YnfT3mr9EPmtzupM3QGmib1vGvjzy7GZizSyraNmEh8H7VMsKxoGdsTqM5QKJuFU9GUbLrdSj4jNZNPX
+```
+
+### TRX TRON
+
+```text
+TQC4fzAzvA9GUb9zjEUyzHkXMh1iVa9uNN
+```
+
+### ŁTC Litecoin
+
+```text
+ltc1qd788fwduly4f573txwa0rtd7227l455zrwq0sk
+```
+
+---
+
+## 🌐 Connect
 
 <div align="center">
+
   <a href="https://github.com/rikgdi">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <a href="https://www.youtube.com/@rikgdi">
-    <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube" />
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+
 </div>
